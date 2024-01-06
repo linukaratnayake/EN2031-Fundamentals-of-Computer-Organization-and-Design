@@ -1,20 +1,71 @@
-# EN2031-Fundamentals-of-Computer-Organization-and-Design
+# EN2031: Fundamentals of Computer Organization and Design
 
-This repository contains the files and reports submitted for the module EN2031: Fundamentals of Computer Organization and Design in the Semester 3 curriculum in the Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka.
+This repository contains the reports and other documents submitted for the module EN2031: Fundamentals of Computer Organization and Design in the Semester 3 curriculum in the Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka.
 
-This module focuses on providing the basic knowledge in the fields of computer architecture and digital system design. The module encouraged the students in self studing the architecute and inner working of a computer motherboard and its main components, CISC and RISC processor architecture with examples, etc. Other than that, the students were assigned to design an ISA and a microarchitecture for a simple custom processor to meet a iven set of requirements.
+This module focused on providing the basic knowledge in the fields of computer architecture and digital system design. The module encouraged the students in self studying of computer organization, computer architecture, and related fields. Accordingly, few assignments were given to the students, namely, to dissect a computer motherboard and identify the components and peripherals with their respective task and behavior, to dissect and explore two microprocessors from RISC and CISC architectures each, and to design a custom ISA and microarchitecture to meet a given set of requirements.
 
-A brief summary of the assignments are as follows.
+A summary of the assignments are as follows.
+<br>
 
 ## Motherboard Dissection
+#### This assignment was done in collaboration with <a href="https://www.linkedin.com/in/yasirubasnayake/">Yasiru Basnayake</a>, and <a href="https://www.linkedin.com/in/kavindujayathissa/">Kavindu Jayathissa</a>.
+
+We chose <b>GIGABYTE B460M DS3H V2</b> as the motherboard to dissect and the following aspects were discussed.
+
 <ul>
-  <li>Understanding the basic components that a modern computer motherboard comprises of.</li>
-  <li></li>
+  <li>Understanding the function and behavior of basic components that a modern computer motherboard comprises of.</li>
+    <ul>
+      <li>CPU</li>
+      <li>Memory</li>
+      <li>Chipset</li>
+      <li>BIOS chip and CMOS battery</li>
+    </ul>
+  <li>Classifying the Input Output (I/O) components and connectivity options.</li>
+    <ul>
+      <li>Internal I/O components</li>
+      <li>External I/O components</li>
+      <li>Other connectivity options and peripheral devices</li>
+    </ul>
+  <li>Describing the overall function of a motherboard as a complete system.</li>
+  <ul>
+    <li>Functional block diagram of a motherboard.</li>
+  </ul>
 </ul>
 
 ## Processor Dissection
-Analysing the Instruction Set Architecture (ISA), Microarchitecture, and Cache memory of two CISC and RISC processors separately followed by a critical comparison of the two processors.
+#### This assignment was done in collaboration with <a href="https://www.linkedin.com/in/yasirubasnayake/">Yasiru Basnayake</a>, and <a href="https://www.linkedin.com/in/kavindujayathissa/">Kavindu Jayathissa</a>.
 
-## ISA and Microarchitecture Design
+We were given <b>AMD Athlon XP</b> as the CISC (Complex Instruction Set Computer) processor, and <b>ARM Cortex-A710</b> as the RISC (Reduced Instruction Set Computer) processor for the dissection. The following details regarding the processors were discussed in the assignment.
 
-Designing an Instruction Set Architecture (ISA) and a microarchitecture to accomodate the designed ISA, for a custom processor which meets a gives set of requirements.
+<ul>
+  <li>Instruction Set Architecture (ISA).</li>
+    <ul>
+      <li>Instruction set</li>
+      <li>Instruction classes and instruction formats</li>
+    </ul>
+  <li>Microarchitecture.</li>
+    <ul>
+      <li>Datapath</li>
+      <li>Controller</li>
+    </ul>
+  <li>ALU functions.</li>
+  <li>Memory.</li>
+    <ul>
+      <li>Cache memory</li>
+      <li>Memory interfacing</li>
+      <li>Timing related to memory</li>
+    </ul>
+  <li>A critical comparison of the two processors.</li>
+</ul>
+
+## Processor Design Project
+#### This assignment was done in collaboration with <a href="https://www.linkedin.com/in/dinuka-madhushan-771521268/">Dinuka Madushan</a>, and Danidu Dabare.
+
+A set of requirements were given for a custom processor that needs to be built. The following tasks were completed in order to fulfill those requirements.
+
+<ul>
+  <li>Designing of an Instruction Set Architecture (ISA) for a custom processor to meet a gives set of requirements.</li>
+  <li>Designing the microarchitecture for the processor to accommodate the newly designed ISA.</li>
+  <li>Illustrating the flow of data and control signals within the processor.</li>
+</ul>
+
