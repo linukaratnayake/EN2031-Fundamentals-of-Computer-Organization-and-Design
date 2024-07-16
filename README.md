@@ -8,7 +8,7 @@ A summary of the assignments are as follows.
 <br>
 
 ## Motherboard Dissection
-#### This assignment was done in collaboration with <a href="https://www.linkedin.com/in/yasirubasnayake/">Yasiru Basnayake</a>, and <a href="https://www.linkedin.com/in/kavindujayathissa/">Kavindu Jayathissa</a>.
+#### This assignment was done in collaboration with <a href="https://github.com/YasiruDEX">Yasiru Basnayake</a>, and <a href="https://github.com/KavinduJ2001">Kavindu Jayathissa</a>.
 
 We chose <b>GIGABYTE B460M DS3H V2</b> as the motherboard to dissect and the following aspects were discussed.
 
@@ -33,7 +33,7 @@ We chose <b>GIGABYTE B460M DS3H V2</b> as the motherboard to dissect and the fol
 </ul>
 
 ## Processor Dissection
-#### This assignment was done in collaboration with <a href="https://www.linkedin.com/in/yasirubasnayake/">Yasiru Basnayake</a>, and <a href="https://www.linkedin.com/in/kavindujayathissa/">Kavindu Jayathissa</a>.
+#### This assignment was done in collaboration with <a href="https://github.com/YasiruDEX">Yasiru Basnayake</a>, and <a href="https://github.com/KavinduJ2001">Kavindu Jayathissa</a>.
 
 We were given <b>AMD Athlon XP</b> as the CISC (Complex Instruction Set Computer) processor, and <b>ARM Cortex-A710</b> as the RISC (Reduced Instruction Set Computer) processor for the dissection. The following details regarding the processors were discussed in the assignment.
 
@@ -59,7 +59,7 @@ We were given <b>AMD Athlon XP</b> as the CISC (Complex Instruction Set Computer
 </ul>
 
 ## Processor Design Project
-#### This assignment was done in collaboration with <a href="https://www.linkedin.com/in/dinuka-madhushan-771521268/">Dinuka Madushan</a>, and Danidu Dabare.
+#### This assignment was done in collaboration with <a href="https://github.com/DinukaMadhushan1234">Dinuka Madushan</a>, and <a href="https://github.com/danidudabare">Danidu Dabare</a>.
 
 A set of requirements were given for a custom processor that needs to be built. The following tasks were completed in order to fulfill those requirements.
 
